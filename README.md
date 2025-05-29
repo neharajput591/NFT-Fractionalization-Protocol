@@ -7,12 +7,14 @@ This smart contract allows an NFT owner to lock their NFT inside the contract an
 To unlock liquidity for NFTs by enabling fractional ownership, allowing broader access and trading of high-value NFTs.
 
 ## Key Features
+
 - Lock an NFT and mint ERC20 tokens as fractions
 - Redeem the NFT by burning all fractional tokens
 - Uses OpenZeppelin standards for ERC721 and ERC20 compatibility
 - Ownership control for fractionalization
 
 ## Future Scope
+
 - Add marketplace integration for fractional token trading
 - Support multiple NFTs and batch fractionalization
 - Add voting or governance features for fractional owners
