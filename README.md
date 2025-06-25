@@ -7,12 +7,14 @@ These fractional tokens can be traded freely.
 
 The full NFT can be redeemed only by the holder who owns all fractional tokens.
 
-## Project Vision
+## Project Vision 
+
 To unlock liquidity for NFTs by enabling fractional ownership, allowing broader access and trading of high-value NFTs.
 
 ## Key Features
 
-- Lock an NFT and mint ERC20 tokens as fractions
+- NFT Locking : The smart contract allows NFT owners to lock their NFTs inside the contract.
+- Fractional token minting: The contract mints ERC20 tokens representing fractional ownership of the locked NFT.
 - Redeem the NFT by burning all fractional tokens
 - Uses OpenZeppelin standards for ERC721 and ERC20 compatibility
 - Ownership control for fractionalization
