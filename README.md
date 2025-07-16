@@ -1,11 +1,7 @@
 # NFT Fractionalization Protocol
 
 ## Project Description
-This smart contract allows an NFT owner to lock their NFT inside the contract and mint ERC20 tokens representing fractional ownership of that NFT.
-
-These fractional tokens can be traded freely. 
-
-The full NFT can be redeemed only by the holder who owns all fractional tokens.
+This smart contract allows an NFT owner to lock an ERC721 token within the contract and mint ERC20 tokens that represent fractional ownership of the NFT. These fractional tokens can be freely traded. The full NFT can only be redeemed by a user who holds **100% of the fractional tokens** and burns them.
 
 ## Project Vision 
 
