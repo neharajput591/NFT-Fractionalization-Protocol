@@ -19,10 +19,17 @@ To unlock liquidity for NFTs by enabling fractional ownership, allowing broader 
 
 ## Future Scope
 
-- Add marketplace integration for fractional token trading
-- Support multiple NFTs and batch fractionalization
-- Add voting or governance features for fractional owners
-- Integrate with Layer 2 solutions for scalability
+🛒 Marketplace Integration
+Allow listing and trading of fractional tokens on decentralized marketplaces.
+
+📦 Batch Fractionalization
+Support locking and fractionalizing multiple NFTs in one transaction.
+
+🗳️ Governance Features
+Add DAO-like voting mechanisms for fractional token holders.
+
+⚡ Layer 2 Integration
+Enable cheaper and faster transactions via L2 solutions like Arbitrum or Optimism.
 
 ## Deployment Instructions
 1. Update `nftAddress` and `nftTokenId` in `deploy.js` with your NFT details.
