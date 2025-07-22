@@ -20,15 +20,19 @@ To unlock liquidity for NFTs by enabling fractional ownership, allowing broader 
 ## Future Scope
 
 🛒 Marketplace Integration
+
 Allow listing and trading of fractional tokens on decentralized marketplaces.
 
 📦 Batch Fractionalization
+
 Support locking and fractionalizing multiple NFTs in one transaction.
 
 🗳️ Governance Features
+
 Add DAO-like voting mechanisms for fractional token holders.
 
 ⚡ Layer 2 Integration
+
 Enable cheaper and faster transactions via L2 solutions like Arbitrum or Optimism.
 
 ## Deployment Instructions
