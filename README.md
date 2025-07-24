@@ -12,7 +12,7 @@ To unlock liquidity for NFTs by enabling fractional ownership, allowing broader 
 ## Key Features
 
 - NFT Locking : The smart contract allows NFT owners to lock their NFTs inside the contract.
-- Fractional token minting: The contract mints ERC20 tokens representing fractional ownership of the locked NFT.
+- Document ERC20 fractional token minting feature
 - Redeem the NFT by burning all fractional tokens
 - Uses OpenZeppelin standards for ERC721 and ERC20 compatibility
 - Ownership control for fractionalization
@@ -35,7 +35,7 @@ Add DAO-like voting mechanisms for fractional token holders.
 
 Enable cheaper and faster transactions via L2 solutions like Arbitrum or Optimism.
 
-## Deployment Instructions
+## Deployment Instructions for smart contract setup
 1. Update `nftAddress` and `nftTokenId` in `deploy.js` with your NFT details.
 2. Install dependencies and deploy:
 
