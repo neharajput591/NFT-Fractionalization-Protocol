@@ -7,7 +7,7 @@ This smart contract allows an NFT owner to lock an ERC721 token within the contr
 
 ## Project Vision 
 
-To unlock liquidity for NFTs by enabling fractional ownership, allowing broader access and trading of high-value NFTs.
+project vision for NFT liquidity via fractional ownership
 
 ## Key Features
 
@@ -17,7 +17,7 @@ To unlock liquidity for NFTs by enabling fractional ownership, allowing broader 
 - Uses OpenZeppelin standards for ERC721 and ERC20 compatibility
 - Ownership control for fractionalization
 
-## Future Scope
+## Future Scope including marketplace and DAO governance
 
 🛒 Marketplace Integration
 
