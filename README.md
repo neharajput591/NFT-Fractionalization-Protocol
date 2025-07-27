@@ -5,12 +5,12 @@ This smart contract allows an NFT owner to lock an ERC721 token within the contr
 
 ## Project Vision
 
-project vision for NFT liquidity via fractional ownership
+Project vision for NFT liquidity via fractional ownership
 
 ## Key Features
 
 - NFT Locking : The smart contract allows NFT owners to lock their NFTs inside the contract.
-- Document ERC20 fractional token minting feature
+- ERC20 Token Minting: Mint tokens representing fractional ownership of the NFT
 - Redeem the NFT by burning all fractional tokens
 - Uses OpenZeppelin standards for ERC721 and ERC20 compatibility
 - Ownership control for fractionalization
