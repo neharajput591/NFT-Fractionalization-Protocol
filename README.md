@@ -1,6 +1,7 @@
 # NFT Fractionalization Protocol
 
 ## Project Description
+
 This smart contract allows an NFT owner to lock an ERC721 token within the contract and mint ERC20 tokens that represent fractional ownership of the NFT. These fractional tokens can be freely traded. The full NFT can only be redeemed by a user who holds **100% of the fractional tokens** and burns them. This ensures only a sole holder can reclaim full ownership of the original NFT.
 
 ## Project Vision
@@ -18,19 +19,15 @@ Project vision for NFT liquidity via fractional ownership
 ## Future Scope including marketplace and DAO governance
 
 🛒 Marketplace Integration
-
 Allow listing and trading of fractional tokens on decentralized marketplaces.
 
 📦 Batch Fractionalization
-
 Support locking and fractionalizing multiple NFTs in one transaction.
 
 🗳️ Governance Features
-
 Add DAO-like voting mechanisms for fractional token holders.
 
 ⚡ Layer 2 Integration
-
 Enable cheaper and faster transactions via L2 solutions like Arbitrum or Optimism.
 
 ## Deployment Instructions for smart contract setup
