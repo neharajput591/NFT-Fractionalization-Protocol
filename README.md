@@ -17,6 +17,7 @@ Project vision for NFT liquidity via fractional ownership
 - Redeem the NFT by burning all fractional tokens
   
 - Uses OpenZeppelin standards for ERC721 and ERC20 compatibility
+  
 - Ownership control for fractionalization
 
 ## Future Scope including marketplace and DAO governance
