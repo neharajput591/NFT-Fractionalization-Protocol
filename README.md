@@ -38,6 +38,8 @@ Add DAO-like voting mechanisms for fractional token holders.
 
 Enable cheaper and faster transactions via L2 solutions like Arbitrum or Optimism.
 
+
+
 ## Deployment Instructions for smart contract setup
 1. Update `nftAddress` and `nftTokenId` in `deploy.js` with your NFT details.
 2. Install dependencies and deploy:
