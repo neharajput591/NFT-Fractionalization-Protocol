@@ -20,6 +20,7 @@ Project vision for NFT liquidity via fractional ownership
   
 - Ownership control for fractionalization
   
+  
 ## Future Scope including marketplace and DAO governance
 
 🛒 Marketplace Integration
