@@ -26,6 +26,7 @@ Project vision for NFT liquidity via fractional ownership
 
 Allow listing and trading of fractional tokens on decentralized marketplaces.
 
+
 📦 Batch Fractionalization
 
 Support locking and fractionalizing multiple NFTs in one transaction.
