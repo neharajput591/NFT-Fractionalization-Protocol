@@ -19,6 +19,7 @@ Project vision for NFT liquidity via fractional ownership
 - Uses OpenZeppelin standards for ERC721 and ERC20 compatibility
   
 - Ownership control for fractionalization
+
   
 ## Future Scope including marketplace and DAO governance
 
