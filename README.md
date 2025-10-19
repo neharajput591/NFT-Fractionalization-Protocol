@@ -13,6 +13,7 @@ Project vision for NFT liquidity via fractional ownership
 - NFT Locking : The smart contract allows NFT owners to lock their NFTs inside the contract.
 
 - ERC20 Token Minting: Mint tokens representing fractional ownership of the NFT
+
   
 - Redeem the NFT by burning all fractional tokens
 
