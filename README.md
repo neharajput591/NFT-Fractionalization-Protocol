@@ -14,7 +14,6 @@ Project vision for NFT liquidity via fractional ownership
 
 - ERC20 Token Minting: Mint tokens representing fractional ownership of the NFT
 
-  
 - Redeem the NFT by burning all fractional tokens
 
 - Uses OpenZeppelin standards for ERC721 and ERC20 compatibility
